@@ -12,6 +12,11 @@ This app is meant to show what an E-Commerce backend should do and the video wil
 - [Questions](#questions)
 
 ## Installation: 
+- To install the app you will need to clone my repo
+- You will need to run npm i to install the packages
+- Then you will need to login to mysql and run the source schema.sql command to create the database
+- Next you will exit mysql and run the npm run seed command
+- Once you have done that you can go to Postman or Insomnia and begin testing the routes. The video below in usgae will run you through how to do so.
 
 
 ## Usage:
